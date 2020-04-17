@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1586499318 source:c:\users\migue\desktop\tp1_utn\tp1_alvarezmiguel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"calculadora_output.h"
+	"calculadora.h"
+
+1586499224 source:c:\users\migue\desktop\tp1_utn\tp1_alvarezmiguel\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1586498343 c:\users\migue\desktop\tp1_utn\tp1_alvarezmiguel\utn.h
+
+1586498546 source:c:\users\migue\desktop\tp1_utn\tp1_alvarezmiguel\calculadora_output.c
+
+1586498345 c:\users\migue\desktop\tp1_utn\tp1_alvarezmiguel\calculadora_output.h
+
+1586497289 source:c:\users\migue\desktop\tp1_utn\tp1_alvarezmiguel\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"calculadora_output.h"
+
+1586498345 c:\users\migue\desktop\tp1_utn\tp1_alvarezmiguel\calculadora.h
+
